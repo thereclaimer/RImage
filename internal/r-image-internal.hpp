@@ -1,0 +1,6 @@
+#ifndef R_IMAGE_INTERNAL_HPP
+#define R_IMAGE_INTERNAL_HPP
+
+
+
+#endif //R_IMAGE_INTERNAL_HPP
